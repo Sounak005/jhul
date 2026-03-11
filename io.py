@@ -10,5 +10,5 @@ sns.scatterplot(
     size="size",      # size of dots
     data=df
 )
-
+# this is a nothing.
 plt.show()
