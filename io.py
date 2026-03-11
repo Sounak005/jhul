@@ -11,4 +11,6 @@ sns.scatterplot(
     data=df
 )
 # this is a nothing.
+
+print("This is a nothing.")
 plt.show()
